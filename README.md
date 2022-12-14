@@ -1,4 +1,4 @@
-![logo](https://github.com/Naeemi7/abdulwasenaeemi/blob/main/cover-image%20(1).png)
+![logo](https://github.com/Naeemi7/Naeemi7/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Abdulwase Naeemi</h1>
 <h3 align="center">A passionate IT Professional from Afghanistan</h3>
 
