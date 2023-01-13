@@ -1,6 +1,7 @@
-![logo](https://github.com/Naeemi7/Naeemi7/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![logo](logo.png)
+
 <h1 align="center">Hi 👋, I'm Abdulwase Naeemi</h1>
-![logo](https://github.com/Naeemi7/Naeemi7/blob/main/Digital%20Career%20Institute%20-%20Beginner%20-%202023-01-13.png)
+
 <h3 align="center">A passionate IT Professional from Afghanistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naeemi7&label=Profile%20views&color=0e75b6&style=flat" alt="naeemi7" /> </p>
