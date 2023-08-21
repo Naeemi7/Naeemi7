@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://abdulwase-naeemi.netlify.app/index.html](https://abdulwase-naeemi.netlify.app/index.html)
+- 👨‍💻 All of my projects are available at [Abdulwase Naeemi](https://abdulwase-naeemi.netlify.app/index.html)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Sass**
 
