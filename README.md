@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abdulwasenaeemi7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1CEsl2xT3jzwskJ9ELOq6CUlIAK08fATB?usp=sharing](https://drive.google.com/drive/folders/1CEsl2xT3jzwskJ9ELOq6CUlIAK08fATB?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1CEsl2xT3jzwskJ9ELOq6CUlIAK08fATB?usp=sharing)
 
 - ⚡ Fun fact **I am good at time management**
 
