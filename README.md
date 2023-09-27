@@ -13,6 +13,9 @@
 
 - 📫 How to reach me **abdulwasenaeemi7@gmail.com**
 
+- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="abdulwase-naeemi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/abdulwase-naeemi?trk=profile-badge">Abdulwase Naeemi</a></div>
+              
+
 <br>
 
 # 💻 Tech Stack:
