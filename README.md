@@ -49,6 +49,9 @@
 
 # Active projects
 [CookBook](https://github.com/Naeemi7/CookBook)
+[personal project]
+01.2023 - Present
+Full-stack web application designed to simplify the cooking experience for users. Allows users to discover, save, and share their favorite recipes. Features include recipe creation, ingredient tracking, and step-by-step cooking instructions. Employed advanced technologies: React.js, Express.js, MongoDB, Node.js, JWT, bcrypt, CSS3, and HTML5.
 
 
 # Project Details:
