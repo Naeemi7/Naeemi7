@@ -52,6 +52,7 @@
 [personal project]
 01.2023 - Present
 Full-stack web application designed to simplify the cooking experience for users. Allows users to discover, save, and share their favorite recipes. Features include recipe creation, ingredient tracking, and step-by-step cooking instructions. Employed advanced technologies: React.js, Express.js, MongoDB, Node.js, JWT, bcrypt, CSS3, and HTML5.
+GitHub Repository: [CookBook Repo](https://github.com/Naeemi7/CookBook)
 
 
 # Project Details:
@@ -60,7 +61,7 @@ Full-stack web application designed to simplify the cooking experience for users
 [group project]
 07.2023 - 09.2023
 Single-page application for yoga and meditation, providing comprehensive information and services. Utilized advanced technologies: React.js, Firebase, Vite, HTML, CSS3, SCSS, Bootstrap, Tailwindcss, and Email.js.
-Website: [CookBook](https://yoga-and-meditation.netlify.app)
+Website: [Yoga and Meditation](https://yoga-and-meditation.netlify.app)
 GitHub Repository: [Yoga & Meditation Repo](https://github.com/Naeemi7/yoga-and-meditation)
 
 ## 2. [TodoXpress](https://github.com/naeemi7/TodoXpress)
