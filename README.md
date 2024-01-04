@@ -48,18 +48,17 @@
 
 
 # Active projects
-1. [CookBook](https://github.com/Naeemi7/CookBook)
-2. [TodoXpress](https://todoxpress.onrender.com)
-3. [gatha- get togetha](https://todoxpress.onrender.com)
+[CookBook](https://github.com/Naeemi7/CookBook)
+
 
 # Project Details:
 
-## 1. [CookBook](https://github.com/Naeemi7/CookBook)
+## 1. [Yoga and Meditation](https://github.com/Naeemi7/CookBook)
 [group project]
 07.2023 - 09.2023
 Single-page application for yoga and meditation, providing comprehensive information and services. Utilized advanced technologies: React.js, Firebase, Vite, HTML, CSS3, SCSS, Bootstrap, Tailwindcss, and Email.js.
 Website: [CookBook](https://yoga-and-meditation.netlify.app)
-GitHub Repository: [CookBook Repo](https://github.com/Naeemi7/yoga-and-meditation)
+GitHub Repository: [Yoga & Meditation Repo]([https://github.com/Naeemi7/yoga-and-meditation)
 
 ## 2. [TodoXpress](https://github.com/naeemi7/TodoXpress)
 [own project]
