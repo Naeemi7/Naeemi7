@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CookBook](https://github.com/Naeemi7/CookBook)
 
-- 🌱 I’m currently learning **socket.io**
+- 🌱 I’m currently learning *socket.io*
 
 - 👨‍💻 All of my projects are available at [abdulwase-naeemi.dev](abdulwase-naeemi.dev)
 
