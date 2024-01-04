@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naeemi7&label=Profile%20views&color=0e75b6&style=flat" alt="naeemi7" /> </p>
 
-- 🔭 I’m currently working on [Yoga and Meditation](https://yoga-and-meditation.netlify.app/)
+- 🔭 I’m currently working on [CookBook](https://github.com/Naeemi7/CookBook)
 
 - 🌱 I’m currently learning **Express.js**
 
@@ -40,6 +40,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+# Active project
+
 
 # 📊 GitHub Stats:
 
