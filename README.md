@@ -58,7 +58,7 @@
 07.2023 - 09.2023
 Single-page application for yoga and meditation, providing comprehensive information and services. Utilized advanced technologies: React.js, Firebase, Vite, HTML, CSS3, SCSS, Bootstrap, Tailwindcss, and Email.js.
 Website: [CookBook](https://yoga-and-meditation.netlify.app)
-GitHub Repository: [Yoga & Meditation Repo([https://yoga-and-meditation.netlify.app](https://github.com/Naeemi7/yoga-and-meditation)
+GitHub Repository: [Yoga & Meditation Repo](https://github.com/Naeemi7/yoga-and-meditation)
 
 ## 2. [TodoXpress](https://github.com/naeemi7/TodoXpress)
 [own project]
