@@ -47,7 +47,34 @@
 ![Render](https://img.shields.io/badge/Render-239120?style=for-the-badge&logo=render&logoColor=white)
 
 
-# Active project
+# Active projects
+1. [CookBook](https://github.com/Naeemi7/CookBook)
+2. [TodoXpress](https://todoxpress.onrender.com)
+3. [gatha- get togetha](https://todoxpress.onrender.com)
+
+# Project Details:
+
+## 1. [CookBook](https://github.com/Naeemi7/CookBook)
+[group project]
+07.2023 - 09.2023
+Single-page application for yoga and meditation, providing comprehensive information and services. Utilized advanced technologies: React.js, Firebase, Vite, HTML, CSS3, SCSS, Bootstrap, Tailwindcss, and Email.js.
+Website: [CookBook](https://yoga-and-meditation.netlify.app)
+GitHub Repository: [CookBook Repo](https://github.com/Naeemi7/yoga-and-meditation)
+
+## 2. [TodoXpress](https://github.com/naeemi7/TodoXpress)
+[own project]
+09.2023 - 10.2023
+MERN full-stack task management app with capabilities for task addition, editing, deletion, and completion. Employed advanced technologies: React.js, MongoDB, Express.js, Node.js, Vite, HTML, and CSS3.
+Website: [TodoXpress](https://todoxpress.onrender.com)
+GitHub Repository: [TodoXpress Repo](https://github.com/naeemi7/TodoXpress)
+
+## 3. [gatha- get togetha](https://github.com/naeemi7/gatha)
+[group project]
+11.2023 - 12.2023
+MERN full-stack group chat application with bidirectional communication using socket.io. Technologies include React.js, socket.io, Express.js, MongoDB, Node.js, JWT, bcrypt, CSS3, and HTML5.
+Role: Backend & socket.io Lead
+Website: [gatha- get togetha](https://todoxpress.onrender.com)
+GitHub Repository: [gatha Repo](https://github.com/naeemi7/gatha)
 
 
 # 📊 GitHub Stats:
