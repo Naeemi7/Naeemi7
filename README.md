@@ -88,7 +88,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Naeemi7">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naeemi7&theme=noctis_minimus" alt="Naeemi's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naeemi7&theme=noctis_minimus" alt="Naeemi's GitHub Contribution"/>
   </a>
 </p>
 <p align="center">
