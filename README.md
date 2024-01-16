@@ -1,4 +1,4 @@
-![logo](banner.png)
+![banner](banner.png)
 
 <h1 align="center">Hi 👋, I'm Abdulwase Naeemi</h1>
 <h3 align="center">A passionate Web Developer and IT Professional based in Lingen (EMS), Germany</h3>
@@ -34,8 +34,8 @@
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
 # 🛠️ Tools
+
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -46,18 +46,18 @@
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-239120?style=for-the-badge&logo=render&logoColor=white)
 
-
 # Active projects
+
 [CookBook](https://github.com/Naeemi7/CookBook)
 [personal project]
 01.2023 - Present
 Full-stack web application designed to simplify the cooking experience for users. Allows users to discover, save, and share their favorite recipes. Features include recipe creation, ingredient tracking, and step-by-step cooking instructions. Employed advanced technologies: React.js, Express.js, MongoDB, Node.js, JWT, bcrypt, CSS3, and HTML5.
 GitHub Repository: [CookBook Repo](https://github.com/Naeemi7/CookBook)
 
-
 # Project Details:
 
 ## 1. [Yoga and Meditation](https://github.com/Naeemi7/CookBook)
+
 [group project]
 07.2023 - 09.2023
 Single-page application for yoga and meditation, providing comprehensive information and services. Utilized advanced technologies: React.js, Firebase, Vite, HTML, CSS3, SCSS, Bootstrap, Tailwindcss, and Email.js.
@@ -65,6 +65,7 @@ Website: [Yoga and Meditation](https://yoga-and-meditation.netlify.app)
 GitHub Repository: [Yoga & Meditation Repo](https://github.com/Naeemi7/yoga-and-meditation)
 
 ## 2. [TodoXpress](https://github.com/naeemi7/TodoXpress)
+
 [own project]
 09.2023 - 10.2023
 MERN full-stack task management app with capabilities for task addition, editing, deletion, and completion. Employed advanced technologies: React.js, MongoDB, Express.js, Node.js, Vite, HTML, and CSS3.
@@ -72,13 +73,13 @@ Website: [TodoXpress](https://todoxpress.onrender.com)
 GitHub Repository: [TodoXpress Repo](https://github.com/naeemi7/TodoXpress)
 
 ## 3. [gatha- get togetha](https://github.com/naeemi7/gatha)
+
 [group project]
 11.2023 - 12.2023
 MERN full-stack group chat application with bidirectional communication using socket.io. Technologies include React.js, socket.io, Express.js, MongoDB, Node.js, JWT, bcrypt, CSS3, and HTML5.
 Role: Backend & socket.io Lead
 Website: [gatha- get togetha](https://todoxpress.onrender.com)
 GitHub Repository: [gatha Repo](https://github.com/naeemi7/gatha)
-
 
 # 📊 GitHub Stats:
 
@@ -88,8 +89,6 @@ GitHub Repository: [gatha Repo](https://github.com/naeemi7/gatha)
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemi7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
 ### 🔝 Top Contributed Repo
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=naeemi7&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
