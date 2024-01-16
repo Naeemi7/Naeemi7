@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning [socket.io](https://socket.io/)
 
-- 👨‍💻 All of my projects are available at [abdulwase-naeemi.dev](abdulwase-naeemi.dev)
+- 👨‍💻 All of my projects are available at [abdulwase-naeemi.dev](https://abdulwase-naeemi.dev)
 
 - 📫 How to reach me **abdulwasenaeemi7@gmail.com**
 
@@ -46,40 +46,36 @@
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-239120?style=for-the-badge&logo=render&logoColor=white)
 
-# Active projects
+### Active Projects
 
-[CookBook](https://github.com/Naeemi7/CookBook)
-[personal project]
-01.2023 - Present
-Full-stack web application designed to simplify the cooking experience for users. Allows users to discover, save, and share their favorite recipes. Features include recipe creation, ingredient tracking, and step-by-step cooking instructions. Employed advanced technologies: React.js, Express.js, MongoDB, Node.js, JWT, bcrypt, CSS3, and HTML5.
-GitHub Repository: [CookBook Repo](https://github.com/Naeemi7/CookBook)
+#### [CookBook](https://github.com/Naeemi7/CookBook)
 
-# Project Details:
+- **01.2023 - Present**
+- Full-stack web application designed to simplify the cooking experience for users. Allows users to discover, save, and share their favorite recipes. Features include recipe creation, ingredient tracking, and step-by-step cooking instructions.
+- Technologies: React.js, Express.js, MongoDB, Node.js, JWT, bcrypt, CSS3, HTML5.
+- [GitHub Repository](https://github.com/Naeemi7/CookBook)
 
-## 1. [Yoga and Meditation](https://github.com/Naeemi7/CookBook)
+#### [Yoga and Meditation](https://github.com/Naeemi7/CookBook)
 
-[group project]
-07.2023 - 09.2023
-Single-page application for yoga and meditation, providing comprehensive information and services. Utilized advanced technologies: React.js, Firebase, Vite, HTML, CSS3, SCSS, Bootstrap, Tailwindcss, and Email.js.
-Website: [Yoga and Meditation](https://yoga-and-meditation.netlify.app)
-GitHub Repository: [Yoga & Meditation Repo](https://github.com/Naeemi7/yoga-and-meditation)
+- **07.2023 - 09.2023**
+- Single-page application for yoga and meditation, providing comprehensive information and services.
+- Technologies: React.js, Firebase, Vite, HTML, CSS3, SCSS, Bootstrap, Tailwindcss, Email.js.
+- [Website](https://yoga-and-meditation.netlify.app) | [GitHub Repository](https://github.com/Naeemi7/yoga-and-meditation)
 
-## 2. [TodoXpress](https://github.com/naeemi7/TodoXpress)
+#### [TodoXpress](https://github.com/naeemi7/TodoXpress)
 
-[own project]
-09.2023 - 10.2023
-MERN full-stack task management app with capabilities for task addition, editing, deletion, and completion. Employed advanced technologies: React.js, MongoDB, Express.js, Node.js, Vite, HTML, and CSS3.
-Website: [TodoXpress](https://todoxpress.onrender.com)
-GitHub Repository: [TodoXpress Repo](https://github.com/naeemi7/TodoXpress)
+- **09.2023 - 10.2023**
+- MERN full-stack task management app with capabilities for task addition, editing, deletion, and completion.
+- Technologies: React.js, MongoDB, Express.js, Node.js, Vite, HTML, CSS3.
+- [Website](https://todoxpress.onrender.com) | [GitHub Repository](https://github.com/naeemi7/TodoXpress)
 
-## 3. [gatha- get togetha](https://github.com/naeemi7/gatha)
+#### [gatha- get togetha](https://github.com/naeemi7/gatha)
 
-[group project]
-11.2023 - 12.2023
-MERN full-stack group chat application with bidirectional communication using socket.io. Technologies include React.js, socket.io, Express.js, MongoDB, Node.js, JWT, bcrypt, CSS3, and HTML5.
-Role: Backend & socket.io Lead
-Website: [gatha- get togetha](https://todoxpress.onrender.com)
-GitHub Repository: [gatha Repo](https://github.com/naeemi7/gatha)
+- **11.2023 - 12.2023**
+- MERN full-stack group chat application with bidirectional communication using socket.io.
+- Technologies: React.js, socket.io, Express.js, MongoDB, Node.js, JWT, bcrypt, CSS3, HTML5.
+- Role: Backend & socket.io Lead
+- [Website](https://todoxpress.onrender.com) | [GitHub Repository](https://github.com/naeemi7/gatha)
 
 # 📊 GitHub Stats:
 
