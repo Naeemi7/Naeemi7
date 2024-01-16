@@ -1,4 +1,4 @@
-![logo](logo.png)
+![logo](banner.png)
 
 <h1 align="center">Hi 👋, I'm Abdulwase Naeemi</h1>
 <h3 align="center">A passionate Web Developer and IT Professional based in Lingen (EMS), Germany</h3>
