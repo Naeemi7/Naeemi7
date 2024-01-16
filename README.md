@@ -92,12 +92,12 @@
   </a>
 </p>
 <p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naeemi7&theme=noctis_minimus" alt="Naeemi" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naeemi7&theme=noctis_minimus" alt="Naeemi" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naeemi7&theme=noctis_minimus" alt="Naeemi" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naeemi7&theme=noctis_minimus" alt="Naeemi" />
 </p>
 <p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naeemi7&theme=noctis_minimus" alt="Naeemi" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naeemi7&theme=noctis_minimus&utcOffset=8" alt="Naeemi" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naeemi7&theme=noctis_minimus" alt="Naeemi" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naeemi7&theme=noctis_minimus&utcOffset=8" alt="Naeemi" />
 </p>
 <br/>
 
