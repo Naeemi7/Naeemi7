@@ -79,12 +79,21 @@
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naeemi7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-<br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naeemi7&theme=dark&hide_border=false)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemi7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+<p align="center">
+  <a href="https://github.com/naeemi7">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naeemi7&theme=noctis_minimus" alt="Naeemi's GitHub Contribution"/>
+  </a>
+</p>
+<p align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naeemi7&theme=noctis_minimus" alt="Naeemi" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naeemi7&theme=noctis_minimus" alt="Naeemi" />
+</p>
+<p align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naeemi7&theme=noctis_minimus" alt="Naeemi" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naeemi7&theme=noctis_minimus&utcOffset=8" alt="Naeemi" />
+</p>
+<br/>
 
-### 🔝 Top Contributed Repo
+![Naeemi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naeemi7&bg_color=1B2932&color=72B7C0&line=C5C8CE&point=D3B692&area_color=FFFFFF&title_color=D3B692&area=true)
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=naeemi7&limit=5&theme=dark&combine_all_yearly_contributions=true)
