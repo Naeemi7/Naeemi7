@@ -55,6 +55,8 @@
 - Technologies: React.js, Express.js, MongoDB, Node.js, JWT, bcrypt, CSS3, HTML5.
 - [GitHub Repository](https://github.com/Naeemi7/CookBook)
 
+### Past Projects
+
 #### [Yoga and Meditation](https://github.com/Naeemi7/CookBook)
 
 - **07.2023 - 09.2023**
@@ -67,33 +69,33 @@
 - **09.2023 - 10.2023**
 - MERN full-stack task management app with capabilities for task addition, editing, deletion, and completion.
 - Technologies: React.js, MongoDB, Express.js, Node.js, Vite, HTML, CSS3.
-- [Website](https://todoxpress.onrender.com) | [GitHub Repository](https://github.com/naeemi7/TodoXpress)
+- [Website](https://todoxpress.onrender.com) | [GitHub Repository](https://github.com/Naeemi7/TodoXpress)
 
-#### [gatha- get togetha](https://github.com/naeemi7/gatha)
+#### [gatha- get togetha](https://github.com/Naeemi7/gatha)
 
 - **11.2023 - 12.2023**
 - MERN full-stack group chat application with bidirectional communication using socket.io.
 - Technologies: React.js, socket.io, Express.js, MongoDB, Node.js, JWT, bcrypt, CSS3, HTML5.
 - Role: Backend & socket.io Lead
-- [Website](https://todoxpress.onrender.com) | [GitHub Repository](https://github.com/naeemi7/gatha)
+- [Website](https://todoxpress.onrender.com) | [GitHub Repository](https://github.com/Naeemi7/gatha)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Summary:
 
 <br/>
 <p align="center">
-  <a href="https://github.com/naeemi7">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naeemi7&theme=noctis_minimus" alt="Naeemi's GitHub Contribution"/>
+  <a href="https://github.com/Naeemi7">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naeemi7&theme=noctis_minimus" alt="Naeemi's GitHub Contribution"/>
   </a>
 </p>
 <p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naeemi7&theme=noctis_minimus" alt="Naeemi" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naeemi7&theme=noctis_minimus" alt="Naeemi" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naeemi7&theme=noctis_minimus" alt="Naeemi" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naeemi7&theme=noctis_minimus" alt="Naeemi" />
 </p>
 <p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naeemi7&theme=noctis_minimus" alt="Naeemi" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naeemi7&theme=noctis_minimus&utcOffset=8" alt="Naeemi" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naeemi7&theme=noctis_minimus" alt="Naeemi" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naeemi7&theme=noctis_minimus&utcOffset=8" alt="Naeemi" />
 </p>
 <br/>
 
-![Naeemi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naeemi7&bg_color=1B2932&color=72B7C0&line=C5C8CE&point=D3B692&area_color=FFFFFF&title_color=D3B692&area=true)
+![Naeemi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naeemi7&bg_color=1B2932&color=72B7C0&line=C5C8CE&point=D3B692&area_color=FFFFFF&title_color=D3B692&area=true)
 
